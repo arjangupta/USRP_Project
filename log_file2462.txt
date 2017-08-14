@@ -1,0 +1,31 @@
+linux; GNU C++ version 4.8.4; Boost_105400; UHD_003.010.git-156-g2d68f228
+
+
+Creating the usrp device with: ...
+-- Opening a USRP2/N-Series device...
+-- Current recv frame size: 1472 bytes
+-- Current send frame size: 1472 bytes
+Using Device: Single USRP:
+  Device: USRP2 / N-Series Device
+  Mboard 0: N210r4
+  RX Channel: 0
+    RX DSP: 0
+    RX Dboard: A
+    RX Subdev: SBXv3 RX
+  TX Channel: 0
+    TX DSP: 0
+    TX Dboard: A
+    TX Subdev: SBXv3 TX
+
+Setting RX Rate: 20.000000 Msps...
+Actual RX Rate: 20.000000 Msps...
+
+Setting RX Freq: 2462.000000 MHz...
+Actual RX Freq: 2462.000000 MHz...
+
+Waiting for "lo_locked": ++++++++++ locked.
+
+Press Ctrl + C to stop streaming...
+
+Done!
+
